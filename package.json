@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-in-github-actions",
+  "version": "1.0.0",
+  "description": "Run Puppeteer in headful mode in GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
